@@ -1,0 +1,25 @@
+.text-centered{
+    text-align: center;
+}
+
+.right-bottom-allign{
+    padding-right: 0px;
+    text-align: right;
+    vertical-align: bottom;
+    padding-bottom: 0px;
+}
+
+.alling-right{
+    padding-right: 0px;
+    text-align: right;
+}
+
+.alling-left{
+    padding-left: 0px;
+    text-align: left;
+}
+
+.header-label{
+    text-align: center;
+    font-weight: bold;
+}
